@@ -18,7 +18,7 @@ const Home = () => {
              <div className="border-4 lg:col-span-2">
                 <h1 className="text-4xl font-bold" >Coming soon </h1>
             </div>
-             <div className="border-4">
+             <div className="">
                 <RightSideNav></RightSideNav>
             </div>
             </div>
